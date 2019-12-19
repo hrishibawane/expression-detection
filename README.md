@@ -8,4 +8,4 @@
 
 ## Demo
 
-Here is a working [demo](https://drive.google.com/file/d/1j1gZc2q1zVCW9DfHcHKGwnF9XW125H16/view?usp=sharing) video link.
+Here is a working [demo](https://drive.google.com/open?id=1wEojNldyOmBQGZ5wltD3HCTXlkxJwwKR) video link.
